@@ -1,0 +1,8 @@
+Object-oriented paradigma digerlerinde ferqli olaraq tekrar kodu istifade etmek ve birinde deyishiklik elemekle digerlerinde de
+deyishiklik elemeye imkan yaradir.
+Oxshar lazim olanlar bir klassda qruplashdirilir. Buda daha kompakt kod yaratmaga komek olur.
+Yeniki bir neche yerde kodu deyishmekdense butun bunlari bir yerden deyishe bilersen.
+Klass misal uchun evin planina benziyir. O evin formasini kagizda gosterir ve bu kagizda eve lazim olan materiallar gosterilib.
+Meselen dash, taxta, demir. Birleshdirmesen bunlar sadece materiallardir. Birleshdirdikde ise ortaya ev cixir. 
+Klass bir nov buna benzeyir.Klass ise object yaradir. Ustunluk ondadirki bir evin planindan istediyin qeder istifade edib ev tike bilersen. 
+Hemcininde bir klassdan istediyin qeder istifade ede bilersen. Buda o demekdirki tekrar kod yazmaga ehtiyac yoxdu.
